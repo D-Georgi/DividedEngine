@@ -1,0 +1,43 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "Maps",
+        "Objects",
+        "."
+    ],
+    "fileStates": {
+        "Maps/level1.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 29.999999999999886,
+                "y": -298
+            }
+        },
+        "Objects/Objects.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.125,
+            "scaleInEditor": 0.5
+        }
+    },
+    "last.exportedFilePath": "C:/Users/David/source/repos/game_engine/game_engine/resources/scenes",
+    "last.imagePath": "C:/Users/David/source/repos/game_engine/game_engine/resources/images",
+    "map.fixedSize": false,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 100,
+    "map.tileWidth": 100,
+    "openFiles": [
+    ],
+    "project": "Final.tiled-project",
+    "recentFiles": [
+        "Objects/Objects.tsx",
+        "Maps/level1.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 1
+}

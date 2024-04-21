@@ -1,0 +1,52 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Maps/Basic.tmx",
+    "expandedProjectPaths": [
+        "Maps",
+        ".",
+        "Objects"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "Maps/Basic.tmx": {
+            "scale": 0.125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -372,
+                "y": 1380
+            }
+        },
+        "Objects/MilestoneObjects.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.125,
+            "scaleInEditor": 0.5
+        },
+        "Objects/Objects.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.03125,
+            "scaleInEditor": 0.125
+        }
+    },
+    "last.exportedFilePath": "C:/Users/David/source/repos/game_engine/x64/Release/resources/scenes",
+    "last.imagePath": "C:/Users/David/source/repos/game_engine/x64/Release/resources/images",
+    "map.fixedSize": false,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 100,
+    "map.tileWidth": 100,
+    "openFiles": [
+        "Maps/Basic.tmx",
+        "Objects/Objects.tsx"
+    ],
+    "project": "Milestone.tiled-project",
+    "recentFiles": [
+        "Objects/Objects.tsx",
+        "Maps/Basic.tmx",
+        "Objects/MilestoneObjects.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 1
+}
